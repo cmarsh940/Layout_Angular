@@ -1,0 +1,8 @@
+.main {
+  background-color: lightskyblue;
+  width: 50%;
+  padding:20px;
+  display: inline-flex;
+  margin:20px;
+  border:1px solid black;
+}

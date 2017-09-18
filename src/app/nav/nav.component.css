@@ -1,0 +1,18 @@
+nav {
+  background-color: lightskyblue;
+  display: inline-flex;
+  width:20%;
+  height: auto;
+  margin: 20px;
+  border:1px solid black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+button{
+  width: 15rem;
+  margin: 10% 40%;
+  height:10%;
+}
